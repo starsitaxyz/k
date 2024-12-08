@@ -1,0 +1,1 @@
+apt install tigervnc-standalone-server -y
